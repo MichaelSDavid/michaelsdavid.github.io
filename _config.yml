@@ -1,6 +1,9 @@
 # ---
 # title: Michael David
 # ---
+title_prefix:
+tag_title_prefix: 
+category_title_prefix: 
 theme: jekyll-theme-midnight
 
 # github:
