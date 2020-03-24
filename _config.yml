@@ -1,7 +1,7 @@
 theme: jekyll-theme-midnight
 
 github:
-  is_project_page: false
+is_project_page: false
 
 title: Michael David
 description: Personal Website
