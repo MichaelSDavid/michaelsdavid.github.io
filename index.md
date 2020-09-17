@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 <!-- <h2 align="center"> Welcome to GitHub Pages</h1> -->
 
-<p align="center">Centered</p> 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/342481673822404608/755983143915356180/vim.png">
+</p> 
 
 You can use the [editor on GitHub](https://github.com/MichaelSDavid/michaelsdavid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
