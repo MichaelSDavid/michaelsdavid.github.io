@@ -4,7 +4,8 @@
 title_prefix:
 tag_title_prefix: 
 category_title_prefix: 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
+# theme: jekyll-theme-midnight
 
 # github:
 # is_project_page: false
