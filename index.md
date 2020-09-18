@@ -1,4 +1,4 @@
-<!-- ## Welcome to GitHub Pages -->
+## Welcome to GitHub Pages
 <!-- <h2 align="center"> Welcome to GitHub Pages</h2>
 
 <p align="center">
