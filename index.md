@@ -4,13 +4,15 @@
 
 
 
-What up gamers it's me, the Michael of Davids</br>
+What up gamers it's me, the Michael of Davids
 Don't mind me, I'm just listening to the latest meme song
 
-</br>
-</br>
-</br>
-</br>
+
+
+
+
+
+
 
 <!-- You can use the [editor on GitHub](https://github.com/MichaelSDavid/michaelsdavid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
 
