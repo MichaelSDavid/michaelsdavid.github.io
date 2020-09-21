@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+<!--
+<p align="center">
+  <img src="assets/images/avatar.png" style="width: 573vw; min-width: 573px;">
+</p> 
+-->
+
+<!-- ## Welcome to GitHub Pages -->
 <!-- <h2 align="center"> Welcome to GitHub Pages</h2>
 
 <p align="center">
