@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/av.png" alt="avatar" height="500" width="500" style="max-height: 100%; max-width: 100%">
+  <img src="assets/images/av.png" alt="avatar" height="500" width="500" style="max-height: 100%; max-width: 100%; background-size: cover;">
 </p> 
 
 <!-- ## Welcome to GitHub Pages -->
@@ -13,7 +13,7 @@
   Centered
 </p> -->
 
-(smile) You can use the [editor on GitHub](https://github.com/MichaelSDavid/michaelsdavid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+(smile 2) You can use the [editor on GitHub](https://github.com/MichaelSDavid/michaelsdavid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
