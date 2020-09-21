@@ -2,18 +2,17 @@
   <img src="assets/images/av.png" alt="avatar" height="500" width="500" style="max-height: 100%; max-width: 100%; height: auto;">
 </p> 
 
-<!-- ## Welcome to GitHub Pages -->
-<!-- <h2 align="center"> Welcome to GitHub Pages</h2>
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/342481673822404608/755983143915356180/vim.png">
-</p> 
 
-<p align="center">
-  Centered
-</p> -->
+What up gamers it's me, the Michael of Davids</br>
+Don't mind me, I'm just listening to the latest meme song
 
-(smile 3) You can use the [editor on GitHub](https://github.com/MichaelSDavid/michaelsdavid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+</br>
+</br>
+</br>
+</br>
+
+<!-- You can use the [editor on GitHub](https://github.com/MichaelSDavid/michaelsdavid.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
