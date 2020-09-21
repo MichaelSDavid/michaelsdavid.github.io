@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/avatar.png" alt="avatar" height="500" width="500">
+  <img src="assets/images/av.png" alt="avatar" height="500" width="500">
 </p> 
 
 <!-- ## Welcome to GitHub Pages -->
