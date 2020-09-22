@@ -1,6 +1,6 @@
 ---
 title: Hobbies
-layout: jekyll-theme-cayman
+layout: page
 filename: hobbies.md
 --- 
 
