@@ -4,4 +4,4 @@ layout: default
 filename: hobbies.md
 --- 
 
-Hello what's up dude bro
+--hobbies--
