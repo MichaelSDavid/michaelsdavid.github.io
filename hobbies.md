@@ -1,5 +1,7 @@
 ---
 title: Hobbies
-layout: template
+layout: jekyll-theme-cayman
 filename: hobbies.md
 --- 
+
+Hello
