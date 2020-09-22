@@ -1,7 +1,6 @@
 ---
 title: Hobbies
-layout: page
-theme: jekyll-theme-cayman
+layout: default
 filename: hobbies.md
 --- 
 
