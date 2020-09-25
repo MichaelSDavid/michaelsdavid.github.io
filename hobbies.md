@@ -21,3 +21,9 @@ some tutorials/tips online and I had also enrolled in a Communications Technolog
 but I have learned so much from these and now take pride in and actively like making creative media texts, as well this helped me advance how I display my personal image through this medium.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fg1fWiP7aBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Karate
+
+Martial arts have always been very interesting and respected by me for the ancient traditions as well as modern self-defence applications. I first started my small journey in an after school program with Taekwondo in my elementary school, but it wasn't as useful compared to something in a traditional dojo. Later on, I got an invite by one of my friends to try out a free class at a Northern Karate Schools (NKS) dojo and it just clicked there. I got started right away and was a dedicated student eventually reaching up to 2nd degree black belt in ranking. I still practice occasionaly on my own for physical fitness as well as keeping general self-defence in my mind because you never know what could happen out there.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IVzTpJjPYSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
