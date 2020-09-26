@@ -55,7 +55,7 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281786894417970/gitea.png" alt="git" width="80"/>
   <p>
-    Git - VCS is basically a must for any updatable project and I hopped on the Git train. Only really started being active this past summer with Multility and all these other recent tiny projects of mine, but I don't think I could ever go back to working without it.
+    Git - VCS is a must for any updatable project and I hopped on the Git train. Only really started being active this past summer with Multility and all these other recent tiny projects of mine, but I don't think I could ever go back to working without it.
   </p>
 </div>
 
