@@ -4,6 +4,8 @@ layout: default
 filename: tech.md
 --- 
 
+<!-- Add dynamic centering for it to look the same on mobile -->
+
 # Technologies
 <br/>
 
