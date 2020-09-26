@@ -67,3 +67,13 @@ filename: tech.md
     <strong>Android</strong> - One of the two dominating mobile platforms. Android development is very fun and there's a lot of freedom from Google's policies and guidelines. Only worked on Multility so far, but I bet I will make more apps in the future.
   </p>
 </div>
+
+<br/>
+
+<div style="margin: 0 auto;">
+  <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281782729605150/apple.png" alt="ios" width="80"/>
+  <p>
+    <strong>iOS</strong> - The other dominating platform on mobile. Apple's platform has always been interesting to me with the very sophisticated aesthetic and streamlined process, but I'm on board with it for porting Multility to iOS and making other apps as well.
+  </p>
+</div>
+
