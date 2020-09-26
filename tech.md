@@ -28,6 +28,6 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281789595549717/javascript.png" alt="javascript" width="80"/>
   <p>
-    JavaScript - Let's be honest, no software developer can live without JS, and that's the same for me. I had mainly been using it for small, simple web projects and only recently hopped on to try serverless and hybrid frameworks like Node, Deno, and messing around with React Native.
+    JavaScript - No software developer can live without JS, and that's the same for me. I had mainly been using it for small, simple web projects and only recently hopped on to try serverless and hybrid frameworks like Node, Deno, and React/React Native.
   </p>
 </div>
