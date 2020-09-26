@@ -49,5 +49,3 @@ filename: tech.md
     JetBrains IDEs - I had been using a text editor for basically everything until last year where I upgraded to full IDEs. They have incredible features and I use them almost everyday. IntelliJ, PyCharm, RubyMine, you name it. 
   </p>
 </div>
-
-
