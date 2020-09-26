@@ -4,7 +4,7 @@ layout: default
 filename: projects.md
 --- 
 
-# Projects (ex)
+# Projects
 
 ## Multility
 
