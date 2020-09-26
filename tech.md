@@ -10,7 +10,7 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281791214551050/python.png" alt="python" width="80"/>
   <p>
-    **Python** - As a general-purpose programming language, I use it for basically everything. Automation, ethical hacking, DS/ML, desktop development, even recently started learning a little bit of Django for web. EX
+    <strong>Python</strong> - As a general-purpose programming language, I use it for basically everything. Automation, ethical hacking, DS/ML, desktop development, even recently started learning a little bit of Django for web. EX
   </p>
 </div>
 
@@ -19,7 +19,7 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281788467150858/javabro.png" alt="java" width="80"/>
   <p>
-    Java - My first compiled language. I mainly use it for Android development, desktop development, as well as some game development with LibGDX and modding in Minecraft.
+    <strong>Java</strong> - My first compiled language. I mainly use it for Android development, desktop development, as well as some game development with LibGDX and modding in Minecraft.
   </p>
 </div>
 
@@ -28,7 +28,7 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281789595549717/javascript.png" alt="javascript" width="80"/>
   <p>
-    JavaScript - No software developer can live without JS, and that's the same for me. I had mainly been using it for small, simple web projects and only recently hopped on to try serverless and hybrid frameworks like Node, Deno, and React / React Native.
+    <strong>JavaScript</strong> - No software developer can live without JS, and that's the same for me. I had mainly been using it for small, simple web projects and only recently hopped on to try serverless and hybrid frameworks like Node, Deno, and React / React Native.
   </p>
 </div>
 
@@ -37,7 +37,7 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281784307056641/c2plus.png" alt="c++" width="80"/>
   <p>
-    C/C++ - I wanted to get some low-level programming experience and there is no way better than C/C++. I started both together and mainly use them for desktop development, language development, and some game development with Cocos2d-x.
+    <strong>C/C++</strong> - I wanted to get some low-level programming experience and there is no way better than C/C++. I started both together and mainly use them for desktop development, language development, and some game development with Cocos2d-x.
   </p>
 </div>
 
@@ -46,7 +46,7 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281890233679882/realjet.png" alt="jetbrains" width="80"/>
   <p>
-    JetBrains IDEs - I had been using a text editor for basically everything until last year where I upgraded to full IDEs for each platform. They have incredible features and I use them almost everyday. IntelliJ, PyCharm, RubyMine, you name it. 
+    <strong>JetBrains IDEs</strong> - I had been using a text editor for basically everything until last year where I upgraded to full IDEs for each platform. They have incredible features and I use them almost everyday. IntelliJ, PyCharm, RubyMine, you name it. 
   </p>
 </div>
 
@@ -55,7 +55,7 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281786894417970/gitea.png" alt="git" width="80"/>
   <p>
-    Git - VCS is a must for any updatable project and I hopped on the Git train. Only really started being active this past summer with Multility and all these other recent tiny projects of mine, but I don't think I could ever go back to working without it.
+    <strong>Git</strong> - VCS is a must for any updatable project and I hopped on the Git train. Only really started being active this past summer with Multility and all these other recent tiny projects of mine, but I don't think I could ever go back to working without it.
   </p>
 </div>
 
