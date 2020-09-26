@@ -14,6 +14,8 @@ filename: tech.md
   </p>
 </div>
 
+<br/>
+
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281788467150858/javabro.png" alt="java" width="80"/>
   <p>
