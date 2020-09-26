@@ -1,3 +1,5 @@
+<!-- Add social links -->
+
 <p align="center">
   <!-- <img src="assets/images/av.png" alt="avatar" height="425" width="425" style="height: auto;"> -->
   <img src="https://cdn.discordapp.com/attachments/342481673822404608/758909173253275668/av.png" alt="avatar" height="425" width="425" style="height: auto;">
