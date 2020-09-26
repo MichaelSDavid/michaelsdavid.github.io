@@ -20,7 +20,7 @@ Multiple utilities in one. A summer project with friends for an intro to mobile 
 
 <img src="https://cdn.discordapp.com/attachments/342481673822404608/759256996540842034/mult.png" alt="multility-ios" width="240"/>
 
-Multility's port to iOS. This is a work-in-progress with the end goals being to gain new customers from this other popular platform, as well as learn the iOS ecosystem for Apple development (still preparing the repository for public view).
+Multility's port to iOS. This is a work-in-progress with the end goals being to gain new customers from this second popular platform, as well as learn the iOS ecosystem for Apple development (still preparing the repository for public view).
 
 ## CaesarBreaker
 
