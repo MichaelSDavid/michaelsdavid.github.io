@@ -37,7 +37,7 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281784307056641/c2plus.png" alt="c++" width="80"/>
   <p>
-    C/C++ - I wanted to get some low-level programming experience and there is no way better than C/C++. I started both at basically the same time and mainly use them for desktop development, language development, and some game development with Cocos2d-x.
+    C/C++ - I wanted to get some low-level programming experience and there is no way better than C/C++. I started both together and mainly use them for desktop development, language development, and some game development with Cocos2d-x.
   </p>
 </div>
 
