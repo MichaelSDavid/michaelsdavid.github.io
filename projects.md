@@ -14,7 +14,7 @@ filename: projects.md
   <img src="https://cdn.discordapp.com/attachments/342481673822404608/759267746793652244/PinClipart.com_green-clipart_1329856.png" alt="playstore" width="50"/>
 </a>
 
-Multiple utilities in one. A summer project for an intro to mobile development and the Android ecosystem. Micro-apps include a tip calculator, a stopwatch, a notepad, a password generator, a fact generator, and a trending news page, to meet one's everyday utility-based needs (still preparing the repository for public view).
+Multiple utilities in one. A summer project with friends for an intro to mobile development and the Android ecosystem. Micro-apps include a tip calculator, a stopwatch, a notepad, a password generator, a fact generator, and a trending news page, to meet one's everyday utility-based needs (still preparing the repository for public view).
 
 ## Multility-iOS
 
