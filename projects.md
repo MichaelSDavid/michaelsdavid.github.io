@@ -9,6 +9,7 @@ filename: projects.md
 ## Multility
 
 <img src="https://cdn.discordapp.com/attachments/342481673822404608/759255355640250409/Eecn-40X0AQsrrX.png" alt="multility" width="240"/>
+<br/>
 <a href="https://play.google.com/store/apps/details?id=com.matdevtech.multility">
   <img src="https://cdn.discordapp.com/attachments/342481673822404608/759267746793652244/PinClipart.com_green-clipart_1329856.png" alt="playstore" width="50"/>
 </a>
@@ -24,6 +25,7 @@ Multility's port to iOS. This is a work-in-progress with the end goals being to 
 ## CaesarBreaker
 
 <img src="https://cdn.discordapp.com/attachments/342481673822404608/759253719774003270/code.png" alt="caesar" width="240"/>
+<br/>
 <a href="https://github.com/MichaelSDavid/CodeBreaker-ISU">
   <img src="https://cdn.discordapp.com/attachments/342481673822404608/759268237577158716/github_circle_black-512.png" alt="github" width="50"/>
 </a>
@@ -33,6 +35,7 @@ A caesar cipher encryption/decryption tool with a sleek, blue "hacker-like" desi
 ## ConureLang
 
 <img src="https://cdn.discordapp.com/attachments/342481673822404608/759242669582319626/icon-1080px.png" alt="conure" width="240"/>
+<br/>
 <a href="https://github.com/MichaelSDavid/conure-lang">
   <img src="https://cdn.discordapp.com/attachments/342481673822404608/759268237577158716/github_circle_black-512.png" alt="github" width="50"/>
 </a>
