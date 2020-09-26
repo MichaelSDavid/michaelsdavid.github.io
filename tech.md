@@ -17,6 +17,6 @@ filename: tech.md
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281788467150858/javabro.png" alt="java" width="80"/>
   <p>
-    Java - My first compiled language. I mainly use it for Android development, desktop development, as well as some game development with LibGDX and modding in
+    Java - My first compiled language. I mainly use it for Android development, desktop development, as well as some game development with LibGDX and modding in Minecraft.
   </p>
 </div>
