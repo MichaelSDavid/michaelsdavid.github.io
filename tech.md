@@ -59,3 +59,11 @@ filename: tech.md
   </p>
 </div>
 
+<br/>
+
+<div style="margin: 0 auto;">
+  <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281785606766592/droid.png" alt="android" width="80"/>
+  <p>
+    <strong>Android</strong> - One of the two dominating mobile platforms. Android development is very fun and there's a lot of freedom from Google's policies and guidelines. Only worked on Multility so far, but I bet I will make more apps in the future.
+  </p>
+</div>
