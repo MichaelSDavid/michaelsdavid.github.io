@@ -40,4 +40,4 @@ A caesar cipher encryption/decryption tool with a sleek, blue "hacker-like" desi
   <img src="https://cdn.discordapp.com/attachments/342481673822404608/759268237577158716/github_circle_black-512.png" alt="github" width="50"/>
 </a>
 
-A small, dynamically-typed, interpreted scripting language made in C that takes inspiration from Python, JS, and Ruby. This is a work-in-progress hobby project for me to learn programming language design, as well as parsing and interpreting chunks of data for processing. 
+A small, dynamically-typed, object-oriented scripting language made in C that takes inspiration from Python, JS, and Ruby. This is a work-in-progress hobby project for me to learn programming language design, as well as parsing and interpreting chunks of data for processing. 
