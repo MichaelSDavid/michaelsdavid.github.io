@@ -31,3 +31,13 @@ filename: tech.md
     JavaScript - No software developer can live without JS, and that's the same for me. I had mainly been using it for small, simple web projects and only recently hopped on to try serverless and hybrid frameworks like Node, Deno, and React / React Native.
   </p>
 </div>
+
+<br/>
+
+<div style="margin: 0 auto;">
+  <img style="float: left; margin-right:2rem;" src="https://cdn.discordapp.com/attachments/342481673822404608/759281784307056641/c2plus.png" alt="c++" width="80"/>
+  <p>
+    C/C++ - I wanted to get some low-level programming experience and there is no way better than C/C++. I started both at basically the same time and mainly use them for desktop development, language development, and some game development with Cocos2d-x.
+  </p>
+</div>
+
