@@ -10,9 +10,11 @@ filename: hobbies.md
 
 <!-- Make iFrames responsive for mobile in the future (as well as header bar potentially) -->
 
-I've always had an ear for music and was very interested when I played on my first keyboard all those years ago.
+<!-- I've always had an ear for music and was very interested when I played on my first keyboard all those years ago.
 Since then, I have gotten to RCM level 9 with a deep understanding of music and technique.
-Recently, I moved on to playing and composing music individually for some more freedom.
+Recently, I moved on to playing and composing music individually for some more freedom. -->
+
+I've always had a fine ear for music, and was sold the very first time when I got my first keyboard as a present all those years ago. Since then, I have gotten to RCM level 9 with a deep understanding of music and technique. I consistently played in the yearly concerts organized by our studio in the music nights organized by my high school. In 2018, Les Six, a piano group which I was a member of, won first place in Los Angeles at the GOCAA International Competition. Recently, I moved onto playing and composing music individually for some more creative freedom.
 
 <!-- style="width: auto; height: auto;" -->
 
@@ -34,6 +36,6 @@ Martial arts have always been very interesting and respected by me for the ancie
 
 ## Ballroom Dancing
 
-When most people say they are dancers, it's usually in styles like jazz, contemporary, hip-hop, etc. that kind of thing. However, I fall into a different category. My parents decided to sign me and my sister up for ballroom dancing as partners. It seemed very awkward at the beginning, but we soon learned to like the style and its special quirks. We decided to also go competitive and participate in competitions up to reaching pre-champ rank (that last year being very intensive) and winning many medals. Participating in dance has helped grow my self-esteem as well as boosting my image as parties (particularly with a partner). Right now, I still occasionaly review some routines if I have time with myself and my sister so that the practice has not gone for naught, and I can apply them to real social scenarios.
+When most people say they are dancers, it's usually in styles like jazz, contemporary, hip-hop, etc. that kind of thing. However, I fall into a different category. My parents decided to sign me and my sister up for ballroom dancing as partners. It seemed very awkward at the beginning, but we soon learned to like the style and its special quirks. We decided to also go competitive and participate in competitions up to reaching pre-champ rank (that last year being very intensive) and winning many medals. Participating in dance has helped grow my self-esteem as well as boosting my image at parties (particularly with a partner). Once COVID hit, with all the restrictions, dance lessons came to a halt. However, I still occasionaly review some routines if I have time with myself and my sister so that the practice has not gone for nothing, and I can apply them to real social scenarios.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3XMGdTw8YFU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
