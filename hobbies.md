@@ -14,7 +14,7 @@ filename: hobbies.md
 Since then, I have gotten to RCM level 9 with a deep understanding of music and technique.
 Recently, I moved on to playing and composing music individually for some more freedom. -->
 
-I've always had a fine ear for music, and was sold the very first time when I got my first keyboard as a present all those years ago. Since then, I have gotten to RCM level 9 with a deep understanding of music and technique. I consistently played in the yearly concerts organized by our studio in the music nights organized by my high school. In 2018, Les Six, a piano group which I was a member of, won first place in Los Angeles at the GOCAA International Competition. Recently, I moved onto playing and composing music individually for some more creative freedom.
+I've always had a fine ear for music, and was sold the very first time when I got my first keyboard as a present all those years ago. Since then, I have gotten to RCM level 9 with a deep understanding of music and technique. I've consistently played in the yearly concerts organized by my high school as a way to bring my skill and compositions out into the local public. In 2018, Les Six, a piano group which I was a member of, won first place in Los Angeles at the GOCAA International Competition. Recently, I moved onto playing and composing music individually for some more creative freedom.
 
 <!-- style="width: auto; height: auto;" -->
 
