@@ -9,7 +9,7 @@ filename: tech.md
 # Technologies
 <br/>
 
-I've been exposed to multiple programming languages, and various frameworks and tools, either in school, by taking Udemy courses, or just by digging for resources from the internet. I have a basic to moderate understanding of most of the below enumerated languages/frameworks/tools and I've used them to accomplish school as well as personal projects.
+I've been exposed to multiple programming languages, and various frameworks and tools, either in school, by taking Udemy courses, or just by digging around for resources from the internet. I have a basic to moderate understanding of most of the below enumerated languages/frameworks/tools and I've used them to accomplish school as well as personal projects.
 <br/><br/>
 
 <div style="margin: 0 auto;">
