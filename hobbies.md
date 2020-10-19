@@ -26,7 +26,7 @@ I've always had a fine ear for music, and was sold the very first time when I go
 some tutorials/tips online and I had also enrolled in a Communications Technology course at my school. This was never a direct career goal or interest, 
 but I have learned so much from these and now take pride in actively making creative media texts, as well help this has given to advance how I display my personal image through this medium. -->
 
-A YouTube channel I had started back in 2015 ignited my interest in graphic design and film, and I’ve been making and editing videos and pictures as a hobby ever since. This hobby was then furthered when I enrolled in a Communications Technology course at my school, giving me real world examples and training. This was never a direct career goal or interest in the beginning, but I have learned so much and now take pride in actively making creative media texts, as well as advance how I display my personal image through this medium.
+A YouTube channel I had started back in 2015 ignited my interest in graphic design and film, and I’ve been making and editing videos and pictures as a hobby ever since. This hobby was then furthered when I enrolled in a Communications Technology course at my school, giving me real world examples and training. This was never a direct career goal or interest in the beginning, but I have learned so much and now take pride in actively making creative media texts, as well as how I display my personal image through this medium.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fg1fWiP7aBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
