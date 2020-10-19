@@ -42,7 +42,7 @@ I've been exposed to multiple programming languages, and various frameworks and 
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="images/c2p.png" alt="c++" width="80"/>
   <p>
-    <strong>C/C++</strong> - I wanted to get some low-level programming experience and there is no way better than C/C++. I started both together and mainly use them for desktop development, language development, and some game development with Cocos2d-x (basic).
+    <strong>C/C++</strong> - I wanted to get some low-level programming experience and there is no better way than C/C++. I started both together and mainly use them for desktop development, language development, and some game development with Cocos2d-x (basic).
   </p>
 </div>
 
