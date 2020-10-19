@@ -33,7 +33,7 @@ I've been exposed to multiple programming languages, and various frameworks and 
 <div style="margin: 0 auto;">
   <img style="float: left; margin-right:2rem;" src="images/js.png" alt="javascript" width="80"/>
   <p>
-    <strong>JavaScript</strong> - No software developer can live without JS, and that's the same for me. I had mainly been using it for small, simple web projects and only recently hopped on to try serverless and hybrid frameworks like Node, Deno, and React / React Native (basic level).
+    <strong>JavaScript</strong> - No software developer can live without JS, and that's also true for me. I had mainly been using it for small, simple web projects and only recently hopped on to try serverless and hybrid frameworks like Node, Deno, and React / React Native (basic level).
   </p>
 </div>
 
