@@ -14,13 +14,13 @@ filename: projects.md
   <img src="images/gp.png" alt="playstore" width="50"/>
 </a>
 
-Multiple utilities in one. A summer project with friends for an intro to mobile development and the Android ecosystem. Micro-apps include a tip calculator, a stopwatch, a notepad, a password generator, a fact generator, and a trending news page, to meet one's everyday utility-based needs (still preparing the repository for public view).
+Multiple utilities in one. A summer project with friends for an intro to mobile development and the Android ecosystem. Micro-apps include a tip calculator, a stopwatch, a notepad, a password generator, a fact generator, and a trending news page, to meet one's everyday utility-based needs (currently in the process of preparing the repository for public view).
 
 ## Multility-iOS
 
 <img src="images/mtap.png" alt="multility-ios" width="240"/>
 
-Multility's port to iOS. This is a work-in-progress with the end goals being to gain new customers from this second popular platform, as well as learn the iOS ecosystem for Apple development (still preparing the repository for public view).
+Multility's port to iOS. This is a work-in-progress with the end goals being to gain new customers from this second popular platform, as well as learn the iOS ecosystem for Apple development (currently in the process of preparing the repository for public view).
 
 ## CaesarBreaker
 
