@@ -10,11 +10,14 @@ filename: projects.md
 
 <img src="images/mt.png" alt="multility" width="240"/>
 <br/>
+<a href="https://github.com/MATDEV-Technologies/Multility" target="_blank">
+  <img src="images/gh.png" alt="github" width="50"/>
+</a>
 <a href="https://play.google.com/store/apps/details?id=com.matdevtech.multility" target="_blank">
   <img src="images/gp.png" alt="playstore" width="50"/>
 </a>
 
-Multiple utilities in one. A summer project with friends for an intro to mobile development and the Android ecosystem. Micro-apps include a tip calculator, a stopwatch, a notepad, a password generator, a fact generator, and a trending news page, to meet one's everyday utility-based needs (currently in the process of preparing the repository for public view).
+Multiple utilities in one. A summer project with friends for an intro to mobile development and the Android ecosystem. Micro-apps include a tip calculator, a stopwatch, a notepad, a password generator, a fact generator, and a trending news page, to meet one's everyday utility-based needs.
 
 ## Multility-iOS
 
